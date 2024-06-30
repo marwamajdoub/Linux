@@ -1,8 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 ## Chapter 1: What is Linux?
 
 Linux is a powerful and versatile open-source operating system that is widely used in a variety of applications, from desktop computing to server infrastructure, embedded systems, and more. Here, we'll cover the basics of what Linux is and why it's so important.
