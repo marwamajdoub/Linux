@@ -1,5 +1,4 @@
 # Chapter 2: How to Install Kali Linux on VMware
-
 ## Introduction
 Kali Linux is a powerful and popular operating system used for penetration testing, ethical hacking, and security research. In this chapter, we will walk you through the process of installing Kali Linux on VMware Workstation Player or VMware Workstation Pro. Using a virtual machine allows you to run Kali Linux on your existing operating system without the need for a separate partition.
 
